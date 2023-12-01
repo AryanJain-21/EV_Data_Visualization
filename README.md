@@ -3,7 +3,7 @@
 
 ## Academic Project that runs 3 main functions: Data Visualization and Analysis functions. 
 
-## Uses data pulled from Kaggle, 150k+ rows, which describes electric and hybrid vehicles registered in the state of Washington. 
+### Uses data pulled from Kaggle, 150k+ rows, which describes electric and hybrid vehicles registered in the state of Washington. 
 
 The first function, EV_models, analyzes the brands and models of the registered cars, showing the differences between sold electric and hybrid vehicles. This information is presented visually using Matplotlib in the form of bar graphs. 
 
