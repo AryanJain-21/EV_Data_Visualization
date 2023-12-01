@@ -3,12 +3,12 @@
 
 ## Academic Project that runs 3 main functions: Data Visualization and Analysis functions. Uses data pulled from Kaggle, 150k+ rows, which describes electric and hybrid vehicles registered in the state of Washington. 
 
-The first function is analyzing the brands and models of the registered cars, showing the differences between sold electric and hybrid vehicles. This information is presented visually using Matplotlib in the form of bar graphs. 
+The first function, EV_models, analyzes the brands and models of the registered cars, showing the differences between sold electric and hybrid vehicles. This information is presented visually using Matplotlib in the form of bar graphs. 
 
-The second function analyzes the population density of registered cars in Washington. Imports a dictionary containing all the cities in Washington and their latitudes and longitudes and uses that to create a data frame in the format required by Density Mapbox (a tool from Plotly Express). A heatmap is created using Plotly Express to show population density. A scatter plot is also put onto the usual heatmap to display smaller populations. 
+The second function, EV_heatmap, analyzes the population density of registered cars in Washington. Imports a dictionary containing all the cities in Washington and their latitudes and longitudes and uses that to create a data frame in the format required by Density Mapbox (a tool from Plotly Express). A heatmap is created using Plotly Express to show population density. A scatter plot is also put onto the usual heatmap to display smaller populations. 
   A .py and .ipynb file are provided, both coded differently but very similarly.
 
-The third function is analyzing the electric range (miles) of electric vehicles. First, clean null values and remove hybrid vehicles, which have a significantly lower electric range and skew data. The mean electric range of the entire population is found, but the information is visualized, using Matplotlib, on a scatterplot using a sample of the population to have a clearer visual. A random clump of 150 vehicles is used for the scatterplot, and the mean is also plotted.
+The third function, EV_range, is analyzing the electric range (miles) of electric vehicles. First, clean null values and remove hybrid vehicles, which have a significantly lower electric range and skew data. The mean electric range of the entire population is found, but the information is visualized, using Matplotlib, on a scatterplot using a sample of the population to have a clearer visual. A random clump of 150 vehicles is used for the scatterplot, and the mean is also plotted.
 
 
 ## In the future
