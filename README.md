@@ -15,7 +15,7 @@ The third function is analyzing the electric range (miles) of electric vehicles.
 
 Increasing the scope of the project by using data from registered vehicles outside of the state of Washington. Cleaning up code, making it more efficient, and using more tools to visualize the functions. 
 
-# How to Install and Run the project
+## How to Install and Run the project
 
 Download the Kaggle Data, Electric_Vehicle_Data.csv, to run all the functions. 
 
@@ -24,7 +24,7 @@ Install Plotly Express: !pip install plotly_express==0.4.0
 
 ## Credits
 
-[Plotly Express and Density Mapbox]([url](https://towardsdatascience.com/creating-geospatial-heatmaps-with-pythons-plotly-and-folium-libraries-4159e98a1ae8#:~:text=To%20do%20this%2C%20we%20first,the%20data%20point%2C%20and%20more.)https://towardsdatascience.com/creating-geospatial-heatmaps-with-pythons-plotly-and-folium-libraries-4159e98a1ae8#:~:text=To%20do%20this%2C%20we%20first,the%20data%20point%2C%20and%20more.)
+[https://towardsdatascience.com/creating-geospatial-heatmaps-with-pythons-plotly-and-folium-libraries-4159e98a1ae8#:~:text=To%20do%20this%2C%20we%20first,the%20data%20point%2C%20and%20more.](url)
 
 
 ## License
