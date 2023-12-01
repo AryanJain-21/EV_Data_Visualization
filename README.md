@@ -1,4 +1,4 @@
-# EV_Data_Visualization
+# EV Data Visualization
 
 
 ## Academic Project that runs 3 main functions: Data Visualization and Analysis functions. Uses data pulled from Kaggle, 150k+ rows, which describes electric and hybrid vehicles registered in the state of Washington. 
